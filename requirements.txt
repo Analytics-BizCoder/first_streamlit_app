@@ -1,0 +1,2 @@
+# requirements for the streamlit snowflake app
+snowflake-connector-pyhton
